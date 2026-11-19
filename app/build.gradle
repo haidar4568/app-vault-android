@@ -1,0 +1,2 @@
+plugins { id 'com.android.application' version '8.7.3' }
+android { namespace 'com.jclicktv.appvault'; compileSdk 35; defaultConfig { applicationId 'com.jclicktv.appvault'; minSdk 23; targetSdk 32; versionCode 1; versionName '1.0' } }
